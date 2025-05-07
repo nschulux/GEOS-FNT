@@ -6,5 +6,6 @@ FNT : Other Fonts converted to FNT with MicroLogic MoreImport and Moretools.
 
 
 Copy fonts to your PC/GEOS USERDATA FONT directory.
+Need nimbus.geo Fontdriver !
 
 Ideal for slow computers and PI/GEOS.
